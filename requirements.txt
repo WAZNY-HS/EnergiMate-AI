@@ -1,0 +1,14 @@
+# EnergiMate Ai - Requirements
+
+# Python 3.7+ is required
+
+# Web Framework
+Flask==3.0.0
+flask-cors==4.0.0
+
+# Standard library dependencies (no installation needed):
+# - datetime
+# - random
+# - typing
+# - dataclasses (Python 3.7+)
+
